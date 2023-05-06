@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @polat08
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning JavaScript, React
-- 💞️ I’m looking to collaborate on work
+- 👋 Hi, I’m Elena
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me  katayeva08@gmail.com
 
 <!---
